@@ -1,0 +1,26 @@
+<Library>
+    <Catalog name="Technical Books">
+        <Book>
+            <ISBN>978-0153590887</ISBN>
+            <Title>Computer Programming in the Basic Language</Title>
+            <Author>Neal Golden</Author>
+        </Book>
+        <Book>
+            <ISBN>978-1292364902</ISBN>
+            <Title>Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud, Global Edition</Title>
+            <Author>Paul Deitel</Author>
+        </Book>
+    </Catalog>
+    <Catalog name="Cookery Books">
+        <Book>
+            <ISBN>978-1856266499</ISBN>
+            <Title>The Wagamama Cookbook</Title>
+            <Author>Hugo Arnold </Author>
+        </Book>
+        <Book>
+            <ISBN>978-1529903522</ISBN>
+            <Title>Bored of Lunch: The Healthy Air Fryer Book</Title>
+            <Author>Nathan Anthony</Author>
+        </Book>
+    </Catalog>
+</Library>

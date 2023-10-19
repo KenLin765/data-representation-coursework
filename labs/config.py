@@ -1,2 +1,2 @@
 # config.py
-githubkey = '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'
+githubkey = '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'
